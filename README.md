@@ -1,5 +1,6 @@
 # Azure DevCamp - Palmerston North 2017 
 
+Moodify built with TypeScript - [https://github.com/NZMSA/2016-Module-2/tree/master/5.%20Typescript/demo-complete-day-two](https://github.com/NZMSA/2016-Module-2/tree/master/5.%20Typescript/demo-complete-day-two)
 
 ## Session 1:
 
